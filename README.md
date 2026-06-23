@@ -14,4 +14,4 @@
 ## [LINE きせかえエディタ](https://jpgjm.github.io/line-theme-editor/)で作成できます。
 
 > [!IMPORTANT]
-> このエディタのHTMLは **AI（Claude）によって生成** されています。
+> このエディタのHTMLは **AIによって生成** されています。
